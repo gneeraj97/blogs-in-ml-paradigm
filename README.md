@@ -1,2 +1,2 @@
 # ML-Concepts-and-Interview
-Repository for learning ML concepts 
+I couldn't find a good GitHub repository for learning ML concepts, so, I made this. 
