@@ -9,7 +9,7 @@ If you want to add any new category or business problem that AI/ML can solve and
 
 - [Agricultural Yield Prediction](https://github.com/gneeraj97/blogs-in-ml-paradigm/edit/main/README.md#agriculture-yield-prediction)
 - [Anomaly/Fraud Detection](https://github.com/gneeraj97/blogs-in-ml-paradigm/edit/main/README.md#anomaly-detection)
-- Autonomous Vehicles
+- [Autonomous Driving](https://github.com/gneeraj97/blogs-in-ml-paradigm/edit/main/README.md#autonomous-driving)
 - Chatbots and Virtual Assistants
 - Clustering
 - Content Generation
@@ -75,6 +75,18 @@ If you want to add any new category or business problem that AI/ML can solve and
 14. [Multi-Domain Fraud Detection While Reducing Good User Declines — Part I](https://medium.com/paypal-tech/multi-domain-fraud-detection-while-reducing-good-user-declines-part-i-e8bba5b07da8) by Nitin Sharma from PayPal, 2020
 15. [RAD — Outlier Detection on Big Data](https://netflixtechblog.com/rad-outlier-detection-on-big-data-d6b0494371cc)  by Netflix, 2015
 
+### Autonomous Driving
+
+1. [List of Waymo research papers](https://waymo.com/research) by Waymo
+2. [Introducing Waymo's Research on an End-to-End Multimodal Model for Autonomous Driving](https://waymo.com/blog/2024/10/introducing-emma) by Waymo, [Paper](https://arxiv.org/pdf/2410.23262), 2024
+3. [Meet the 6th-generation Waymo Driver: Optimized for costs, designed to handle more weather, and coming to riders faster than before](https://waymo.com/blog/2024/08/meet-the-6th-generation-waymo-driver) by Waymo, 2024
+4. [AI Alignment: Ensuring the Aurora Driver is Safe and Human-Like](https://blog.aurora.tech/engineering/the-future-of-ai-in-selfdriving) By Drew Bagnell from Aurora, 2024
+5. [Aurora’s Verifiable AI Approach to Self-Driving](https://blog.aurora.tech/engineering/aurora-verifiable-ai-approach-to-selfdriving) by Chris Urmson from Aurora, 2024
+6. [AI Transparency: The Why and How](https://blog.aurora.tech/engineering/the-why-and-how-of-transparency) By Drew Bagnell from Aurora, 2024
+7. [Announcing the 2024 Waymo Open Dataset Challenges](https://waymo.com/blog/2024/03/2024-waymo-open-dataset-challenges) by Waymo, 2024
+8. [Waymo significantly outperforms comparable human benchmarks over 7+ million miles of rider-only driving](https://waymo.com/blog/2023/12/waymo-significantly-outperforms-comparable-human-benchmarks-over-7-million) by Waymo, 2023, [Paper 1](http://arxiv.org/abs/2312.12675), [Paper 2](https://arxiv.org/abs/2312.13228)
+9. [Waymo advances AI research with our multifunctional Waymax simulator](https://waymo.com/blog/2023/10/waymo-advances-ai-research-with-our-multifunctional-waymax-simulator) by Waymo, 2023
+10. [Waymo at CVPR 2023: At the cutting-edge of autonomous driving research](https://waymo.com/blog/2023/06/waymo-at-cvpr-2023-at-the-cutting-edge-of-autonomous-driving-research) by Waymo, 2023
 
 
 
