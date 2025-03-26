@@ -10,7 +10,6 @@ If you want to add any new category or business problem that AI/ML can solve and
 - [Agricultural Yield Prediction](https://github.com/gneeraj97/blogs-in-ml-paradigm/edit/main/README.md#agriculture-yield-prediction)
 - [Anomaly/Fraud Detection](https://github.com/gneeraj97/blogs-in-ml-paradigm/edit/main/README.md#anomaly-detection)
 - [Autonomous Driving](https://github.com/gneeraj97/blogs-in-ml-paradigm/edit/main/README.md#autonomous-driving)
-- Chatbots and Virtual Assistants
 - Clustering
 - Content Generation
 - Credit Scoring
@@ -18,35 +17,24 @@ If you want to add any new category or business problem that AI/ML can solve and
 - Customer Churn Prediction
 - Customer Support Automation
 - Demand Forecasting
-- Dimensionality Reduction
-- Document Classification
 - Drug Discovery
-- Energy Consumption Optimization
-- Environmental Monitoring
+- Energy and Environmental Monitoring
 - Financial Modeling
 - Healthcare Diagnostics
 - Human Resources Analytics
 - Image and Video Recognition
 - Insurance Underwriting
 - Market Basket Analysis
-- Music and Media Recommendations
-- Natural Language Processing (NLP)
-- Optimization
-- Personalized Marketing
-- Predictive Analytics
-- Predictive Maintenance
+- Natural Language Processing (NLP), Chatbots, and Virtual Assistants, 
 - Pricing Optimization
-- Product Recommendations
 - Real Estate Valuation
+- Recommendations: Music, Media, and Product 
 - Robotic Process Automation (RPA)
-- Route Planning
+- Route Planning and Supply Chain Optimization
 - Sentiment Analysis
 - Speech Recognition
 - Synthetic Data Generation
-- Sports Analytics
-- Supply Chain Optimization
 - Time-Series Forecasting
-- Virtual Personal Shopping Assistants
 
 ## Blogs
 
@@ -78,15 +66,21 @@ If you want to add any new category or business problem that AI/ML can solve and
 ### Autonomous Driving
 
 1. [List of Waymo research papers](https://waymo.com/research) by Waymo
-2. [Introducing Waymo's Research on an End-to-End Multimodal Model for Autonomous Driving](https://waymo.com/blog/2024/10/introducing-emma) by Waymo, [Paper](https://arxiv.org/pdf/2410.23262), 2024
-3. [Meet the 6th-generation Waymo Driver: Optimized for costs, designed to handle more weather, and coming to riders faster than before](https://waymo.com/blog/2024/08/meet-the-6th-generation-waymo-driver) by Waymo, 2024
-4. [AI Alignment: Ensuring the Aurora Driver is Safe and Human-Like](https://blog.aurora.tech/engineering/the-future-of-ai-in-selfdriving) By Drew Bagnell from Aurora, 2024
-5. [Aurora’s Verifiable AI Approach to Self-Driving](https://blog.aurora.tech/engineering/aurora-verifiable-ai-approach-to-selfdriving) by Chris Urmson from Aurora, 2024
-6. [AI Transparency: The Why and How](https://blog.aurora.tech/engineering/the-why-and-how-of-transparency) By Drew Bagnell from Aurora, 2024
-7. [Announcing the 2024 Waymo Open Dataset Challenges](https://waymo.com/blog/2024/03/2024-waymo-open-dataset-challenges) by Waymo, 2024
-8. [Waymo significantly outperforms comparable human benchmarks over 7+ million miles of rider-only driving](https://waymo.com/blog/2023/12/waymo-significantly-outperforms-comparable-human-benchmarks-over-7-million) by Waymo, 2023, [Paper 1](http://arxiv.org/abs/2312.12675), [Paper 2](https://arxiv.org/abs/2312.13228)
-9. [Waymo advances AI research with our multifunctional Waymax simulator](https://waymo.com/blog/2023/10/waymo-advances-ai-research-with-our-multifunctional-waymax-simulator) by Waymo, 2023
-10. [Waymo at CVPR 2023: At the cutting-edge of autonomous driving research](https://waymo.com/blog/2023/06/waymo-at-cvpr-2023-at-the-cutting-edge-of-autonomous-driving-research) by Waymo, 2023
+2. [The 6 Levels of Vehicle Autonomy Explained](https://www.synopsys.com/blogs/chip-design/autonomous-driving-levels.html) By Synopsys, 2025
+3. [Introducing Waymo's Research on an End-to-End Multimodal Model for Autonomous Driving](https://waymo.com/blog/2024/10/introducing-emma) by Waymo, [Paper](https://arxiv.org/pdf/2410.23262), 2024
+4. [Meet the 6th-generation Waymo Driver: Optimized for costs, designed to handle more weather, and coming to riders faster than before](https://waymo.com/blog/2024/08/meet-the-6th-generation-waymo-driver) by Waymo, 2024
+5. [AI Alignment: Ensuring the Aurora Driver is Safe and Human-Like](https://blog.aurora.tech/engineering/the-future-of-ai-in-selfdriving) By Drew Bagnell from Aurora, 2024
+6. [Aurora’s Verifiable AI Approach to Self-Driving](https://blog.aurora.tech/engineering/aurora-verifiable-ai-approach-to-selfdriving) by Chris Urmson from Aurora, 2024
+7. [How Google uses AI to reduce stop-and-go traffic on your route — and fight fuel emissions](https://blog.google/outreach-initiatives/sustainability/google-ai-project-greenlight/) by Ari Marini from Google, 2024
+8. [AI Transparency: The Why and How](https://blog.aurora.tech/engineering/the-why-and-how-of-transparency) By Drew Bagnell from Aurora, 2024
+9. [Announcing the 2024 Waymo Open Dataset Challenges](https://waymo.com/blog/2024/03/2024-waymo-open-dataset-challenges) by Waymo, 2024
+10. [Waymo significantly outperforms comparable human benchmarks over 7+ million miles of rider-only driving](https://waymo.com/blog/2023/12/waymo-significantly-outperforms-comparable-human-benchmarks-over-7-million) by Waymo, 2023, [Paper 1](http://arxiv.org/abs/2312.12675), [Paper 2](https://arxiv.org/abs/2312.13228)
+11. [Waymo advances AI research with our multifunctional Waymax simulator](https://waymo.com/blog/2023/10/waymo-advances-ai-research-with-our-multifunctional-waymax-simulator) by Waymo, 2023
+12. [Waymo at CVPR 2023: At the cutting-edge of autonomous driving research](https://waymo.com/blog/2023/06/waymo-at-cvpr-2023-at-the-cutting-edge-of-autonomous-driving-research) by Waymo, 2023
+13. [Scalable Active Learning for Autonomous Driving](https://medium.com/nvidia-ai/scalable-active-learning-for-autonomous-driving-a-practical-implementation-and-a-b-test-4d315ed04b5f) by Nvidia, 2019
 
+### Chatbots and Virtual Assistants
 
+1. [Three Building Blocks for Creating AI Virtual Assistants for Customer Service with an NVIDIA AI Blueprint](https://developer.nvidia.com/blog/three-building-blocks-for-creating-ai-virtual-assistants-for-customer-service-with-an-nvidia-nim-agent-blueprint/) by Isabel Hulseman and Ruchika Kharwar from Nvidia, 2024
+2. 
 
